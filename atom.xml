@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[LimaJS]]></title>
-  <link href="http://lupomontero.github.com/limajs/atom.xml" rel="self"/>
-  <link href="http://lupomontero.github.com/limajs/"/>
-  <updated>2013-12-11T14:21:45-05:00</updated>
-  <id>http://lupomontero.github.com/limajs/</id>
+  <link href="http://lupomontero.github.com/limajs.org/atom.xml" rel="self"/>
+  <link href="http://lupomontero.github.com/limajs.org/"/>
+  <updated>2013-12-11T14:24:23-05:00</updated>
+  <id>http://lupomontero.github.com/limajs.org/</id>
   <author>
     <name><![CDATA[LimaJS]]></name>
     
