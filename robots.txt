@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lupomontero.github.com/limajs/sitemap.xml 
